@@ -1,0 +1,64 @@
+{
+    "projects": [
+      
+      {
+        "date": "29/12/2022",
+        "title": "HTML & CSS",
+        "description": "this was the first time i was writing HTML & CSS i have even implemented media query here this was just as beginner",
+        "url": "https://htmlcssportfolio.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52907092570_ea1362afc8_k.jpg"
+      },
+      {
+        "date": "30/01/2023",
+        "title": "JAVASCRIPT",
+        "description":"Some of my initial days small projects of javascript",
+        "url": "https://jsprortfolio.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52907092510_5a7fb861ac_w.jpg"
+      },
+
+      {
+        "date": "20/02/2023",
+        "title": "BYTEWORKS",
+        "description":"This was the first react APP built by me i have used React-router-dom ,Hash-Links, react-responsive-carousel",
+        "url": "https://bytework.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52906710401_205a043ae4_k.jpg"
+      },
+  
+      {
+        "date": "05/03/2023",
+        "title": "MOTIONFLIX",
+        "description": "This bit advanced someone adviced me to use UI Library ChakraUI also i used react-router-dom, react-icons",
+        "url": "https://motionflix.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52906135892_85412d4143_k.jpg"
+      },
+      {
+        "date": "15/03/2022",
+        "title": "CRYPTOPAL",
+        "description": "lots of references required and took help from friends it uses chakraUI, Axios, react-router and Chart.js",
+        "url": "https://cryptopal-rosy.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52906135877_2fd2d36f6f_c.jpg"
+      },
+  
+      {
+        "date": "25/03/2023",
+        "title": "REACT-CART",
+        "description": "Shopping cart developed using Redux toolkit along with React-router-Dom, React-icons etc",
+        "url": "https://react-cart-psi.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52906858194_44b2e76e8b_k.jpg"
+      },
+      {
+        "date": "10/04/2023",
+        "title": "NETFLIX",
+        "description": "This is Clone of Netflix App developed used Axios to fetch the data, react-router-dom, sass",
+        "url": "https://netflix-clone-psi-gilt.vercel.app/",
+        "imgSrc": "https://live.staticflickr.com/65535/52906858229_078331671e_k.jpg"
+      },
+      {
+        "date": "25/05/2023",
+        "title": "PORTFOLIO",
+        "description": "This was the portfolio used extensive framer motion, react-icons, sass",
+        "url": "/",
+        "imgSrc": "https://live.staticflickr.com/65535/52906710381_ca76bd1fb6_h.jpg"
+      }
+    ]
+  }
