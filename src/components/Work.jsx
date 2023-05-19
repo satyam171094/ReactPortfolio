@@ -10,7 +10,6 @@ const Work = () => {
       <section>
         <article>
             <Carousel
-            showArrows={false} 
             showIndicators={false} 
             showStatus={false} 
             showThumbs={false} 
